@@ -1,5 +1,5 @@
 # smflyrics
-extract lyrics from an SMF (=MIDI file)
+extract lyrics from a Standard MIDI File (SMF) 
 
 ## Install
 
