@@ -136,5 +136,5 @@ func main() {
 		os.Exit(1)
 	}
 
-	fmt.Fprintln(os.Stderr, text)
+	fmt.Fprintln(os.Stdout, text)
 }
